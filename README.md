@@ -1,0 +1,1 @@
+# LeetCodeNotes in Obsidian
