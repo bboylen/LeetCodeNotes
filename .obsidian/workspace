@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linked List/Linked List.md",
+            "file": "Linked List/Linked list ex.md",
             "mode": "source"
           }
         }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked List/Linked List.md",
+                "file": "Linked List/Linked list ex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -83,11 +83,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "93bd6ca7d846d6cd",
   "lastOpenFiles": [
+    "Linked List/Linked list ex.md",
     "Linked List/Linked List.md",
     "Linked List/Untitled.md",
     "Untitled.md"
