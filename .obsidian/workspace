@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linked List/Linked List.md",
+            "file": "Binary Tree/BFS.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "31d3e9e333df016c",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked List/Linked List.md",
+                "file": "Binary Tree/BFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,9 @@
   },
   "active": "9e60a3fa3330939f",
   "lastOpenFiles": [
+    "Binary Tree/BFS.md",
     "Linked List/Linked List.md",
+    "Binary Tree/Untitled.md",
     "Linked List/Linked list ex.md",
     "Linked List/Untitled.md",
     "Untitled.md"
