@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dynamic Programming/Overview.md",
-            "mode": "source"
+            "file": "Greedy Algorithm.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Programming/Overview.md",
+                "file": "Greedy Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,12 +87,15 @@
   },
   "active": "9e60a3fa3330939f",
   "lastOpenFiles": [
-    "Untitled.md",
-    "README.md",
+    "Greedy Algorithm.md",
+    "Dynamic Programming/Overview.md",
+    "Dynamic Programming.md",
+    "Linked List/Linked list ex.md",
+    "Dynamic Programming/Untitled.md",
     "Binary Tree/BFS.md",
     "Linked List/Linked List.md",
-    "Binary Tree/Untitled.md",
-    "Linked List/Linked list ex.md",
-    "Linked List/Untitled.md"
+    "Untitled.md",
+    "README.md",
+    "Binary Tree/Untitled.md"
   ]
 }

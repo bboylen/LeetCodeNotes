@@ -1,0 +1,2 @@
+# Greedy Algorithm
+A greedy algorithm is any algorithm that follows the problem solving heuristic of making the locally optimal choice at each stage. In many problems, a greedy strategy does not produce an optimal solution, but can yield locally optimal solutions. Main difference from [[Overview#Dynamic Programming|Dynamic Programming]] is that DP is exhaustive and guaranteed to find the solution. Greedy algo never reconsider's previous stage's algorithmic path to the solution.
