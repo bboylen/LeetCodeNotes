@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Greedy Algorithm.md",
-            "mode": "preview"
+            "file": "Algorithms/Topological Sort.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Greedy Algorithm.md",
+                "file": "Algorithms/Topological Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "9e60a3fa3330939f",
   "lastOpenFiles": [
-    "Greedy Algorithm.md",
+    "Algorithms/Topological Sort.md",
+    "Algorithms/Greedy Algorithm.md",
+    "Binary Tree/BFS.md",
     "Dynamic Programming/Overview.md",
+    "Dynamic Programming/Untitled.md",
+    "Untitled.md",
+    "Greedy Algorithm.md",
     "Dynamic Programming.md",
     "Linked List/Linked list ex.md",
-    "Dynamic Programming/Untitled.md",
-    "Binary Tree/BFS.md",
-    "Linked List/Linked List.md",
-    "Untitled.md",
-    "README.md",
-    "Binary Tree/Untitled.md"
+    "Linked List/Linked List.md"
   ]
 }
