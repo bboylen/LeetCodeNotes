@@ -3,3 +3,4 @@ Algorithm for searching a tree data structure for a node that satisfies a given 
 
 # Complexity Analysis
 - Time Complexity: O(V+E) - Every vertex and edge will be explored in the worst case.
+- Space Complexity: O(V) - Need space for all of the vertexes in the queue in the worst case.
