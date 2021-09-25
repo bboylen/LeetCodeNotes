@@ -26,6 +26,11 @@ The ability of one object to acquire some or all of another object. Reusability 
 
 ### Polymorphism
 Gives a way to use a class exactly like its parent so there is no confusion with mixing types. Each child subclass keeps its own functions/methods as they are.
+## OOP Design Questions Approach
+1. Handle Ambiguity
+2. Define the Core Objects
+3. Analyze Relationships
+4. Investigate Actions
 ## Terms to Know
         class, object (and the difference between the two)
 
